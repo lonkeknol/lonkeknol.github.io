@@ -41,6 +41,10 @@ h6 { font-size: 1rem; }
     margin-top: 0px;
 }
 
+#photos {
+  margin-top:1rem;
+}
+
 @media (min-width: 992px) {
   #photos {
   -moz-column-count:    3;
