@@ -71,3 +71,9 @@ h6 { font-size: 1rem; }
     float:left;
     padding-right: 10px;
 }
+
+.bottomright {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
