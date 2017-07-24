@@ -18,6 +18,8 @@ h6 { font-size: 1rem; }
 /* This fixes chips not being vertically aligned due to extra bottom margin */
 .chip { margin-bottom:0px; }
 
+.chip-list .chip { margin-bottom: 5px; }
+
 /* This is to display the logo in the menu */
 #jj-logo            { width:300px; padding: 10px 75px 0px 75px;  }
 #jj-logo-link       { height: auto; padding: 0;     }
